@@ -88,4 +88,8 @@ button {
     align-content: center;
     text-align: center;
   }
+
+  input {
+    width: 100%;
+  }
 }
