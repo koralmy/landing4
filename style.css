@@ -27,6 +27,9 @@ body {
 }
 
 .contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: absolute;
   top: 15%;
   right: 15%;
